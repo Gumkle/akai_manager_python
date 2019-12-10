@@ -17,5 +17,5 @@ sqlparse==0.3.0
 urllib3==1.25.6
 django-qr-code==1.0.0
 djangorestframework
-mysqlclient==1.4.4
+mysqlclient==1.4.6
 pillow
